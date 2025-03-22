@@ -19,7 +19,7 @@ order: 4
 
 **Course Developed** 
 
-- Generative AI for Developer
+- Generative AI for Developer,  2024, 2025
 
 
 **Mentorship**
