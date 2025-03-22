@@ -8,12 +8,12 @@ order: 3
 **Publications**
 
 - **Under Preparation or Review**
-	- **Benson, T.O.**, Islam, M.A., Liu K., Ford Versypt, AN ., Agent-based modeling reveals impacts of cell adhesion and matrix remodeling on cancer collective cell migration phenotypes, **bioRxiv (under preparation)**
- 	- **Benson, T.O.**, Islam, M.A., Liu K., Ford Versypt, AN ., Agent-based modeling reveals extracellular matrix remodeling and structure on cancer collective cell migration phenotypes, **bioRxiv (under preparation)**	
+	- **Benson, T.O.**, Islam, M.A., Liu K., Ford Versypt, AN., Agent-based modeling reveals impacts of cell adhesion and matrix remodeling on cancer collective cell migration phenotypes, **bioRxiv (under preparation)**
+ 	- **Benson, T.O.**, Islam, M.A., Liu K., Ford Versypt, AN., Agent-based modeling reveals extracellular matrix remodeling and structure on cancer collective cell migration phenotypes, **bioRxiv (under preparation)**	
 	
 
 - **Conferences**
-	- Aruljyothi L, **Mungle T**, Woodward MA, Prajna VN, Nallasamy N., 2025. A Comparison of Zero-Shot LLM and Standard NLP Approaches for the Extraction of Microbial Keratitis Descriptors from Clinical Records, In: 2025 ARVO Annual Meeting, May 4-8, Salt Lake City, Utah. **(Accepted)**
+	- **Benson, T.O.**, Ford Versypt, AN., Agent-Based Modeling of Cancer Cell Phenotypic Transition from Spheroid to Network Phenotype: Investigating the Role of Biophysical and Biochemical Parameters: 2025 SACB Biannual Meeting, Feb 10-12, Aurora Colorado. **(Accepted)**
  	
 
 - **Full list of Publications**
