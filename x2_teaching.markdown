@@ -27,7 +27,7 @@ order: 4
 Over the years, I had opportunities to mentor amazing undergraduate students people
 
 <ins>IIT Kharagpur</ins> <br>
-Interns: [G. Namratha Reddy](https://www.linkedin.com/in/g-namratha-reddy/), [Suumil Roy](https://www.linkedin.com/in/suumilroy/), [Shaurya Malik](https://www.linkedin.com/in/shaurya-malik/), [Aman Singh Thakur](https://www.linkedin.com/in/singh96aman/)
+Interns: [G. Namratha Reddy](https://www.linkedin.com/in/g-namratha-reddy/)
 
 
 [Homepage](/)
