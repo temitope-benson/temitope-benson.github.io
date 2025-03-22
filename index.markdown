@@ -10,35 +10,34 @@ order: 1
 <div style="display: flex; align-items: flex-start;">	
   <img src="/media/temitope.jpeg" alt="Tushar Mungle" width="200" style="margin-right: 10px;"/> 
   <div style="text-align: justify;">
-    <p>Hi, I am PhD Candidate at <a href="https://sites.google.com/site/ashleefordversypt/">Ashlee Ford Versypt Lab</a>, <a href="https://www.buffalo.edu/ai-data-science.html">IAD</a>, University at Buffalo, SUNY.</p>
-    <p>I work in the field of clinical/medical informatics utilizing real-world data (Electronic Health Records) to generate evidence-base solutions for clinical problems and develop implementable solutions/systems. The research aims to assist various stakeholders in the hospital settings that can significantly impact and improve patient outcomes, health care delivery and policies. Alongside these, my efforts align with fostering technological tools that empower clinicians and patients for better healthcare delivery.
+    <p>Welcome to my homepage! I am a 6th year PhD Candidate at <a href="https://sites.google.com/site/ashleefordversypt/">Ashlee Ford Versypt Lab</a>, in the <a href="https://www.buffalo.edu/ai-data-science.html">Institute for Artificial Intelligence and Data Science</a>, University at Buffalo, SUNY.</p>
+    <p>My PhD research is focused on building Computational Multiscale Modeling of Metastatic Cancer Cell Migration and Invasion. I employ mathematical models, machine learning models, and data science techniques in my investigation and research. I spend the summer of 2022, and 2023 with JPMorgan Chase & Co. as an Artificial Intelligence and Data Science Summer Associate. 
 	</p>
   </div>
 </div>
 
 <div style="text-align: justify;">
-In the realm of functional genomics, I have gained experience working with single nucleotide polymorphisms and gene insertion/deletion. I have employed this information to correlate clinical data, leading to a more profound understanding and optimal treatment delivery strategies. Moreover, my skill set extends into medical image analysis, further broadening my abilities in data interpretation and clinical application.
+The summer of 2021 was spent at Oak Ridge National Laboratory as a Geospatial Data Science Research Intern. I have more than 10 years of experience working in academia, US Government National Laboratory, the Financial Industry, and Technology. I am looking for a full-time role as a Tenure-Track Assistant Professor of Mathematics and Data Analytics, Senior Data Scientist/ Research Scientist.
 
 </div>
 <br>
 **Research Interests**
 
-- Clinical Informatics, Electronic Health Records, Data-centeric Approaches, Machine Learning, Statistical Learning, Large Language Models
+- Machine Learning, Deep Learning, Data Science and Analytics, Mathematical Models, Cancer Biology, Geospatial Data Analysis, Generative AI, Experimentation and Causal Inference., Data-centric Approaches, Statistical Learning, Large Language Models
 
 **Education**
-- Ph.D., Clinical Informatics, IIT Kharagpur, India
-	- I have been fortunate to work with amazing mentors during my PhD 
-		- [Prof. Sangeeta Das Bhattacharya](https://doctors.christianacare.org/provider/sangeeta-das-bhattacharya/844911)
-		- [Prof. Jayanta Mukhopadhyay](https://www.iitkgp.ac.in/department/CS/faculty/cs-jay)
-		- [Dr. Shekhar Krishnan](https://tmckolkata.com/apps/hrd/ajax.php?target=GetTPofile&Id=23) 
-- M.Tech, Computer Science and Engg, MIT Manipal, India 
-- B.E, Computer Engg, SVPCET, Nagpur, India 
+- Ph.D., Computational Data-Enabled Science and Engineering, University at Buffalo, SUNY, USA
+	- I have been fortunate to work with an amazing PI during my PhD 
+		- [Prof. Ashlee N. Ford Versypt](https://sites.google.com/site/ashleefordversypt/)
+- MSc, Mathematics, Montana State University, Bozeman, USA
+- M.Sc., Mathematics, University of Ibadan, Nigeria
+- B.Sc., Mathematics (First Class Honor), University of Ibadan, Nigeria
 
 **Expericence**
-- Post-Doctoral Fellow, TTCRC, Tata Medical Center (TMC) Kolkata, India Jan ’21-March ’23
-- Research Intern, HeRC, University of Manchester, UK, Jan-Feb ’20
-- Research Assistant, TTCRC, TMC Kolkata, India Dec ’19-Dec ’20
-- Project Intern, Intel Technology India Pvt. Ltd., Bangalore, India June ’13-July ’14
+- Sr. Data Science Associate, JPMorgan Chase & Co., Columbus, Ohio, USA June ’22 - September ’22, June ’23 - September ’23
+- Geospatial Data Science Research Intern, Oakridge National Laboratory, Knoxville, Tennesse, USA May-August ’21
+- IT  Consultant/ DBA, HIIT, Ibadan, Nigeria June ’15 - July ’17; Teaching Assistant, University of Ibadan, Nigerian, June ’15 - July ’17
+- Mathematics Instructor, College of Education, Agbor, Delta State, Nigeria June ’14 - June ’15
 
 **Contact** 
 
