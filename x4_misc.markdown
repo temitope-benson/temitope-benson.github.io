@@ -14,7 +14,8 @@ order: 5
 **Service**
 - 
 
-**Awards and Achievments**
+**Awards and Achievements**
+
 - _Academic_
 	- 
 	
