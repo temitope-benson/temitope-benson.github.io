@@ -10,7 +10,7 @@ order: 1
 <div style="display: flex; align-items: flex-start;">	
   <img src="/media/temitope.jpeg" alt="Tushar Mungle" width="200" style="margin-right: 10px;"/> 
   <div style="text-align: justify;">
-    <p>Hi, I am postdoctoral scholar at <a href="https://med.stanford.edu/boussard-lab.html">Boussard Lab</a>, <a href="https://bmir.stanford.edu/">BMIR</a>, Stanford University.</p>
+    <p>Hi, I am PhD Candidate at <a href="https://sites.google.com/site/ashleefordversypt/">Ashlee Ford Versypt Lab</a>, <a href="https://www.buffalo.edu/ai-data-science.html">IAD</a>, University at Buffalo, SUNY.</p>
     <p>I work in the field of clinical/medical informatics utilizing real-world data (Electronic Health Records) to generate evidence-base solutions for clinical problems and develop implementable solutions/systems. The research aims to assist various stakeholders in the hospital settings that can significantly impact and improve patient outcomes, health care delivery and policies. Alongside these, my efforts align with fostering technological tools that empower clinicians and patients for better healthcare delivery.
 	</p>
   </div>
