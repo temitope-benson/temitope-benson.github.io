@@ -41,4 +41,4 @@ The summer of 2021 was spent at Oak Ridge National Laboratory as a Geospatial Da
 
 **Contact** 
 
-E-mail: [tusharm@stanford.edu](mailto:tusharm@stanford.edu); [tushar.mungle@gmail.com](mailto:tushar.mungle@gmail.com)
+E-mail: [tbenson2@buffalo.edu](mailto:tbenson2@buffalo.edu); [temitopebenson@yahoo.com](mailto:temitopebenson@yahoo.com)
