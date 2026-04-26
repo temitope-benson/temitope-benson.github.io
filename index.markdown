@@ -45,4 +45,4 @@ I have also interned at Oak Ridge National Laboratory as a Geospatial Data Scien
 
 **Contact** 
 
-E-mail:  [temitopebenson@yahoo.com](mailto:temitopebenson@yahoo.com); [tbenson2@buffalo.edu](mailto:tbenson2@buffalo.edu);[temitope746@gmail.com](mailto:temitope746@gmail.com);
+E-mail:  [temitopebenson@yahoo.com](mailto:temitopebenson@yahoo.com); [temitope746@gmail.com](mailto:temitope746@gmail.com);
