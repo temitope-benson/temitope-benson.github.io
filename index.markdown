@@ -33,12 +33,15 @@ I have also interned at Oak Ridge National Laboratory as a Geospatial Data Scien
 - M.Sc., Mathematics, University of Ibadan, Nigeria
 - B.Sc., Mathematics (First Class Honor), University of Ibadan, Nigeria
 
-**Expericence**
+**Professional Experience**
 - Sr. Data Science Associate, JPMorgan Chase & Co., Columbus, Ohio, USA June ’22 - September ’23
 - Geospatial Data Science Research Intern, Oakridge National Laboratory, Knoxville, Tennessee, USA, May-August ’21
 - IT  Consultant/ DBA, HIIT, Ibadan, Nigeria, June ’15 - July ’17; Teaching Assistant, University of Ibadan, Nigeria, June ’15 - July ’17
 - Mathematics Instructor, College of Education, Agbor, Delta State, Nigeria June ’14 - June ’15
 
+**Academic Experience**
+- I have been a Teaching Professor and graduate assistant for different undergraduate mathematics classes across the University of Ibadan, Montana State University, Oklahoma State University, and the University at Buffalo. 
+
 **Contact** 
 
-E-mail: [tbenson2@buffalo.edu](mailto:tbenson2@buffalo.edu); [temitopebenson@yahoo.com](mailto:temitopebenson@yahoo.com)
+E-mail:  [temitopebenson@yahoo.com](mailto:temitopebenson@yahoo.com); [tbenson2@buffalo.edu](mailto:tbenson2@buffalo.edu);[temitope746@gmail.com](mailto:temitope746@gmail.com);
