@@ -21,6 +21,7 @@ I have also interned at Oak Ridge National Laboratory as a Geospatial Data Scien
 
 </div>
 <br>
+
 **Research Interests**
 
 - Machine Learning, Deep Learning, Data Science and Analytics, Bayesian optimization, Mathematical Models, Cancer Biology, Geospatial Data Analysis, Generative AI, Experimentation and Causal Inference, Data-centric Approaches, Statistical Learning, Large Language Models
