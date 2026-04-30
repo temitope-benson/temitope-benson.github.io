@@ -11,7 +11,7 @@ order: 1
   <img src="/media/temitope.jpeg" alt="Tushar Mungle" width="200" style="margin-right: 10px;"/> 
   <div style="text-align: justify;">
     <p>Welcome to my homepage! I have a PhD in Computational and Data-Enabled Sciences from the <a href="https://www.buffalo.edu/ai-data-science.html">Institute for Artificial Intelligence and Data Science</a>, University at Buffalo, SUNY under the guidiance of Professor <a href="https://sites.google.com/site/ashleefordversypt/">Ashlee Ford Versypt</a>.</p> 
-    <p>My PhD research is focused on building Computational Multiscale Modeling of Metastatic Cancer Cell Migration and Invasion. I employ mathematical models, machine learning models, and data science techniques in my investigation and research. I have interned with JPMorgan Chase & Co. as an Artificial Intelligence and Data Science Summer Associate. 
+    <p>My PhD thesis was on building Computational Multiscale Agent-Based Modeling and Bayesian Optimization of Metastatic Cancer Cell Migration and Invasion Phenotype. I employ mathematical and machine learning models, as well as data science techniques, in my research and investigations. I have interned with JPMorgan Chase & Co. as an Artificial Intelligence and Data Science Summer Associate. 
 	</p>
   </div>
 </div>
